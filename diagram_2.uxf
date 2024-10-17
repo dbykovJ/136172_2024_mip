@@ -4,8 +4,8 @@
   <element>
     <id>UMLPackage</id>
     <coordinates>
-      <x>540</x>
-      <y>350</y>
+      <x>620</x>
+      <y>340</y>
       <w>100</w>
       <h>70</h>
     </coordinates>
@@ -19,19 +19,19 @@ bg=green</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>580</x>
-      <y>280</y>
-      <w>30</w>
-      <h>110</h>
+      <x>710</x>
+      <y>390</y>
+      <w>160</w>
+      <h>30</h>
     </coordinates>
     <panel_attributes>lt=(+)-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+    <additional_attributes>140.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLPackage</id>
     <coordinates>
-      <x>540</x>
-      <y>210</y>
+      <x>850</x>
+      <y>340</y>
       <w>100</w>
       <h>70</h>
     </coordinates>
